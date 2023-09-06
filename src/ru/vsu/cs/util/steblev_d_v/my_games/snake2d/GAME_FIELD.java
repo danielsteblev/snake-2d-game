@@ -1,3 +1,5 @@
+package ru.vsu.cs.util.steblev_d_v.my_games.snake2d;
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
