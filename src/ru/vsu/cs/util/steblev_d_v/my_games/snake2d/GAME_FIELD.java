@@ -60,8 +60,6 @@ public class GAME_FIELD extends JPanel implements ActionListener {
         apple = iia.getImage();
         ImageIcon iid = new ImageIcon("snake.jpg");
         dot = iid.getImage();
-
-
     }
 
     @Override
