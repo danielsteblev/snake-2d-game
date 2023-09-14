@@ -49,8 +49,6 @@ public class GAME_FIELD extends JPanel implements ActionListener {
     public void createApple() {
         appleX = new Random().nextInt(20) * DOT_SIZE;
         appleY = new Random().nextInt(20) * DOT_SIZE;
-
-
     }
 
     public void loadImages() {
