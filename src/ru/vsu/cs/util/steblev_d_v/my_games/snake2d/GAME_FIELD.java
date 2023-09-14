@@ -35,7 +35,6 @@ public class GAME_FIELD extends JPanel implements ActionListener {
         setFocusable(true);
 
     }
-
     public void inItGame() {
         dots = 3;
         for (int i = 0; i < dots; i++) {
